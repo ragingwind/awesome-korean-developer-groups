@@ -13,3 +13,4 @@ Korea Developers Groups.
 - [Python Korea](https://www.facebook.com/groups/pythonkorea)
 - [ARDUINO Korea](https://www.facebook.com/groups/arduinokorea/)
 - [Electron Korea](https://github.com/electronkr)
+- [R Korea](https://www.facebook.com/groups/krstudy/)
