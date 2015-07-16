@@ -14,3 +14,6 @@ Korea Developers Groups.
 - [ARDUINO Korea](https://www.facebook.com/groups/arduinokorea/)
 - [Electron Korea](https://github.com/electronkr)
 - [R Korea](https://www.facebook.com/groups/krstudy/)
+- [Swift Korea](https://goo.gl/YUTa73)
+- [Korea Git User Group](https://goo.gl/ImFmYQ)
+- [Korea Spring User Group](https://goo.gl/OEIQCH)
