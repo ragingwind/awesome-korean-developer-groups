@@ -20,3 +20,4 @@ Korea Developers Groups.
 - [Sublime Text Korean User](https://goo.gl/YbwG7f)
 - [Ruby Korea](https://goo.gl/8aO1O)
 - [Apache Spark Korea User Group](https://goo.gl/0jIwT9)
+- [Korea Web Accessibility Group](https://goo.gl/uKmDqO)
