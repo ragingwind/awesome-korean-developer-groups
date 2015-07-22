@@ -1,6 +1,6 @@
 # awesome-kr
 
-Korea Developers Groups. 
+Korea Developer Groups
 
 - [Web Applications Korea](https://github.com/wakrorg)
 - [React KR Users](https://github.com/reactkr)
