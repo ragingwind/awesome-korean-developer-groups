@@ -23,3 +23,4 @@ Korea Developer Groups
 - [Korea Web Accessibility Group](https://goo.gl/uKmDqO)
 - [Framer JS Korea](https://goo.gl/4y9eT3)
 - [Node.js Korea](https://goo.gl/onyklT)
+- [Eddystone Korea](https://goo.gl/FmvcVZ)
