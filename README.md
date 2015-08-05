@@ -24,3 +24,4 @@ Korea Developer Groups
 - [Framer JS Korea](https://goo.gl/4y9eT3)
 - [Node.js Korea](https://goo.gl/onyklT)
 - [Eddystone Korea](https://goo.gl/FmvcVZ)
+- [Data Science Korea](https://goo.gl/uuMlI4)
