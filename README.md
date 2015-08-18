@@ -28,3 +28,5 @@ Korea Developer Groups
 - [Korea Bootstrap User Group](https://goo.gl/QAgLQx)
 - [Korea Java Community Organization](JCO)](https://goo.gl/al0ewk)
 - [Google App Engine Korea](https://goo.gl/XKG62O)
+- [MySQL Korea User Group](https://goo.gl/DNp0rd)
+
