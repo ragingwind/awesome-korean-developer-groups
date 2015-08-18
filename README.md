@@ -29,4 +29,4 @@ Korea Developer Groups
 - [Korea Java Community Organization](JCO)](https://goo.gl/al0ewk)
 - [Google App Engine Korea](https://goo.gl/XKG62O)
 - [MySQL Korea User Group](https://goo.gl/DNp0rd)
-
+- [AI Korea Open](https://goo.gl/VEkix7)
