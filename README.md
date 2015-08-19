@@ -30,3 +30,4 @@ Korea Developer Groups
 - [Google App Engine Korea](https://goo.gl/XKG62O)
 - [MySQL Korea User Group](https://goo.gl/DNp0rd)
 - [AI Korea Open](https://goo.gl/VEkix7)
+- [Scala User Group Korea](https://goo.gl/DbyvIj)
