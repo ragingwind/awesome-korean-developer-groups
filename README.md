@@ -32,3 +32,4 @@ Korea Developer Groups
 - [MySQL Korea User Group](https://goo.gl/DNp0rd)
 - [AI Korea Open](https://goo.gl/VEkix7)
 - [Scala User Group Korea](https://goo.gl/DbyvIj)
+- [Korea Linux User Group](https://goo.gl/gWv7UX)
