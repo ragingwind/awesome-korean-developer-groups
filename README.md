@@ -25,6 +25,7 @@ Korea Developer Groups
 - [Node.js Korea](https://goo.gl/onyklT)
 - [Eddystone Korea](https://goo.gl/FmvcVZ)
 - [Data Science Korea](https://goo.gl/uuMlI4)
+- [Korea AngularJS User Group](https://goo.gl/4Ov1al)
 - [Korea Bootstrap User Group](https://goo.gl/QAgLQx)
 - [Korea Java Community Organization](JCO)](https://goo.gl/al0ewk)
 - [Google App Engine Korea](https://goo.gl/XKG62O)
