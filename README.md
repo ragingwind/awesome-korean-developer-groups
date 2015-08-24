@@ -34,3 +34,4 @@ Korea Developer Groups
 - [Scala User Group Korea](https://goo.gl/DbyvIj)
 - [Korea Linux User Group](https://goo.gl/gWv7UX)
 - [Atlassian User group Korea](https://goo.gl/3uLwu2)
+- [Small & Strong Startup Korea](https://goo.gl/DPgVs9)
