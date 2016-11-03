@@ -8,6 +8,7 @@ Korea Developer Groups
 - [Golang Korea](https://www.facebook.com/groups/golangko/?ref=bookmarks)
 - [Kotlin Korea](https://www.facebook.com/groups/kotlinkr/?ref=bookmarks)
 - [GDG Korea Android](https://www.facebook.com/groups/gdg.korea.android/)
+- [GDG Seoul](https://www.facebook.com/groups/gdgseoul/)
 - [Redis Korean User Group](https://www.facebook.com/groups/301632676649865/)
 - [Korea Docker User Group](https://www.facebook.com/groups/korea.docker.user.group/)
 - [Python Korea](https://www.facebook.com/groups/pythonkorea)
